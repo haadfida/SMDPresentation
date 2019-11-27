@@ -15,14 +15,4 @@ Google Drive, DropBox, Box, etc).
 Finally, you can review the prior backups done, and delete them or `share` them
 again (re-send them somewhere).
 
-Primer / Documentation: http://ugorji.net/project/android-conversation-backup  
-Blog Post: http://ugorji.net/blog/android-conversation-backup  
-Download on Google Play: https://play.google.com/store/apps/details?id=net.ugorji.android.conversationbackup
-
-## Development Notes
-
-Google doesn't provide public API's for accessing SMS and MMS.
-
-I had to reverse-engineer the actual android src to know what to do.
-However, this has been tested and works on Androind 2.3 up to Android 9.0.
 
