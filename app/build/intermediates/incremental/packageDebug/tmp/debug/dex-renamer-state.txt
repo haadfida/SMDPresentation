@@ -1,0 +1,4 @@
+#Wed Nov 27 00:42:22 PKT 2019
+base.0=/Users/haadfida/Downloads/android-conversation-backup-master/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
